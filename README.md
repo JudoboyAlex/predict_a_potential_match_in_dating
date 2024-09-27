@@ -1,7 +1,3 @@
 # Final Project for CSCA5622
 
-Introduction
-
-Background
-
-Project Topic
+Struggling to find a match in the modern dating scene, I became determined to uncover the secret of finding a match. My mom always assured me I was handsome, so looks couldn't be the issue. Could it be because I'm under 6 feet tall? My ethnicity? Or maybe my job title? Armed with my newfound knowledge of machine learning, I set out to dive deep into speed dating events data and discover the hidden ingredients for finding my perfect match.
